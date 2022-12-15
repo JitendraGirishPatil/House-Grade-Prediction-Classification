@@ -13,15 +13,15 @@ Grade indicates the quality and condition of a residence. This strongly influenc
 
 Build a predictive model to determine the Grade of houses (The grades are A,B,C,D, and E).
 
-My Approach
+## My Approach
 Created few ML Models that include data visualisation and data preprocessing, and for model building and obtaining best performing model Accuracy, and F1 scores were used to determine the best model.
 
 Naive Bayes, Decision tree Classifier, ensemble techniques like Random Forest Classifier and Stacking Classifier were the Supervised machine learning models used in this project. The best model obtained is the XGBoost Regressor.
 
-Technologies Used
+## Technologies Used
 Pandas Numpy Matplotlib Seaborn Sci-kit Learn
 
-Project Objectives
+## Project Objectives
 ➣ Perform Exploratory Data Analysis & Data Visualisation
 
 ➣ Data Preprocessing
